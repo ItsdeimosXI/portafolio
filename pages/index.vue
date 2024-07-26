@@ -11,7 +11,7 @@
         
         <h3>Tecnologías y Herramientas</h3>
         <ul>
-          <li><strong>Vue 3:</strong> Desarrollador frontend experto en Vue 3, creando interfaces de usuario interactivas y responsivas.</li>
+          <li><strong>Vue 3:</strong> Desarrollador frontend junior en Vue 3, creando interfaces de usuario interactivas y responsivas.</li>
           <li><strong>Docker:</strong> Uso de contenedores para crear entornos de desarrollo consistentes y despliegues escalables.</li>
           <li><strong>GitHub:</strong> Gestión de versiones y colaboración en proyectos con control de versiones distribuido.</li>
           <li><strong>Django REST Framework:</strong> Construcción de API RESTful robustas y seguras para aplicaciones web.</li>
