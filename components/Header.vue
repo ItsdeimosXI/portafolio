@@ -6,13 +6,17 @@
       :ellipsis="false"
       @select="handleSelect"
     >
-      <div class="flex-grow" />
+      
       <el-menu-item index="1">
         <nuxt-link class="links" to="/">Home</nuxt-link></el-menu-item>
-        <el-menu-item index="3">
+        <el-menu-item index="2">
           <nuxt-link class="links" to="proyectos">Proyectos</nuxt-link> </el-menu-item>
-          <el-menu-item index="2">
+          <el-menu-item index="3">
             <nuxt-link class="links" to="about">About</nuxt-link> </el-menu-item>
+            <div class="flex-grow" />
+            <el-menu-item index=4>
+              <DarkToggle/>
+            </el-menu-item>
     </el-menu>
     
   </template>
@@ -22,7 +26,7 @@
   
   const activeIndex = ref('1')
   const handleSelect = (key: string, keyPath: string[]) => {
-    console.log(key, keyPath)
+    
   }
   </script>
   

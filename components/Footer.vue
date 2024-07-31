@@ -4,10 +4,10 @@
         <div class="footer-content">
           <p>&copy; 2024 Manuel Salamanca. Todos los derechos reservados.</p>
           <div class="social-links">
-            <a href="https://github.com/tu-perfil" target="_blank" aria-label="GitHub">
+            <a href="https://github.com/ItsdeimosXI" target="_blank" aria-label="GitHub">
               <i class="fa fa-github"></i>
             </a>
-            <a href="https://linkedin.com/in/tu-perfil" target="_blank" aria-label="Linkedin">
+            <a href="https://www.linkedin.com/in/manuel-salamanca-490936230/" target="_blank" aria-label="Linkedin">
               <i class="fa fa-linkedin"></i>
             </a>
           </div>
